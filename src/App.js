@@ -11,6 +11,7 @@ import Carrito from './componentes/Carrito';
 import Olvidar from './componentes/OlvidarContra';
 import Favoritos from './componentes/favoritos';
 import Home from './componentes/home';
+import { Analytics } from "@vercel/analytics/react"
 import './App.css';
 
 
